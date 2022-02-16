@@ -1,0 +1,51 @@
+Main Menu
+IDC GCP Training
+2022
+Assignment: Intro to Github
+Gurkaran Singh
+•
+Feb 11 (Edited Feb 14)
+100 points
+Due Tomorrow
+In this session you will be introduced on how is Github should be used.
+Attached with this assignment will be the following documents-
+1. Assignments that you need to submit- Please open the Google Doc , as instructed complete the assignment and turn it in the Google Classroom before the due date.
+2. Reference Document- This document contains Google Cloud documentation links which you can use to gain in depth knowledge of the subjects. Please spend some time on reading these documents.
+3. Video Recording ( After Session)- Video recording of the session will be uploaded for you to have a relook if needed. 
+Remember- You are not allowed to download the video recording or any resources. Please use Google Resources only to create your documents.
+Reach out to Gurkaran Singh in case of any doubts/confusions
+
+2022 Training: Intro to GitHub Assignment
+Google Docs
+
+References: Intro to GitHub
+Google Docs
+
+Training Videos_GitHub Final.mov
+Video
+
+2022-training.txt
+Text
+Class comments
+Your work
+Assigned
+Private comments
+Assignment: Intro to GitHub
+Download the github command line tool from the link: https://cli.github.com/
+Use file 2022-training.txt for github commits.
+Perform step 3-7 and 15-20 using the command line. Take screenshots which show each of the steps.
+Create a new repo 2022-training-<yourfirstname-lastname> with your springml account under your organization. Don’t use springml-code.
+Don't create any file at time of creating the repo.
+Clone the repo in your local.
+Add this file as an initial commit to the main branch.
+Create a branch dev. Push the branch.
+Create a new feature branch by name first-feature from dev.
+Delete line 12 and 13. Add a new line after line 11.
+Push the changes to the feature branch. List all the branches.
+Raise a PR.
+Give your manager access to repo.
+Don't approve the PR
+===
+++++++++
+2022-training.txt
+Displaying 2022-training.txt.
